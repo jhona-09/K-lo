@@ -1,10 +1,10 @@
 # K-lo
 
 <b>
-K-lo es un keylogger escrito en Python para Windows que puede tomar screenshots, recuperar el historial de Google Chrome y contraseñas guardadas, con la opción de enviar todos los archivos a una cuenta de gmail o hotmail.      
+K-lo es un keylogger escrito en Python para Windows que puede tomar screenshots, recuperar el historial de Google Chrome y contraseñas guardadas, con la opción de enviar todos los archivos a una cuenta de corrreo electrónico.      
 
 
-K-lo it's a Keylogger written in Python for Windows that can take screenshots, retrieve Google Chrome history and saved passwords, with the option of email all these files to a gmail or hotmail account, for the english instructions you could see README_ENGLISH.txt
+K-lo it's a Keylogger written in Python for Windows that can take screenshots, retrieve Google Chrome history and saved passwords, with the option of email all these files, for the english instructions you could see README_ENGLISH.txt
 </b>
 
 K-lo tiene la función de ser keylogger que también realiza capturas de pantalla 
