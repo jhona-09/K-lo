@@ -16,7 +16,7 @@ K-lo también puede mandarte estos archivos a algún correo, estos se envían
 en el tiempo que tu indicas de manera automatizada, con el nombre 
 de el usuario que tiene en ejecución K-lo y su IP publica. Para que puedas
 identificarlos si lo tienes instalado en más de una maquina (wink).  
-K-lo utiliza la libería pynput por lo que hasta el momento no se ha reportado 
+K-lo utiliza la librería pynput por lo que hasta el momento no se ha reportado 
 LAG durante su execución, al contrario de la liberia pyhook. 
 
 <b>
@@ -99,7 +99,7 @@ _OJO:
 Si no quieres que siga corriendo termina el proceso utilizando el 
 administrador de tareas
 SI APAGAN LA COMPUTADORA DEBES VOLVERLO A EJECUTAR SIGUIENDO LOS PASOS 
-DE ARRIBA MENCIONADOS. (PRONTO SERÁ ARREGLADO)_  
+DE ARRIBA MENCIONADOS. (PRONTO SERA ARREGLADO)_  
 
 _SUPER ADVERTENCIA:
 ES MAS QUE OBVIO QUE DEBES ESCONDER LA CARPETA DONDE ESTAN ESTOS ARCHIVOS
