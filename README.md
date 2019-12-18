@@ -17,7 +17,7 @@ en el tiempo que tu indicas de manera automatizada, con el nombre
 de el usuario que tiene en ejecución K-lo y su IP publica. Para que puedas
 identificarlos si lo tienes instalado en más de una maquina (wink).  
 K-lo utiliza la librería pynput por lo que hasta el momento no se ha reportado 
-LAG durante su execución, al contrario de la liberia pyhook. 
+LAG durante su execución, al contrario de la librería pyhook. 
 
 <b>
 PRIMER PASO:
